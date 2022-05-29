@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACE,eADa,CACb,0BAA0B,CAAA;EACxB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;CACxB",
+    "sources": [
+        "brands-section.scss"
+    ],
+    "names": [],
+    "file": "brands-section.css"
+}
