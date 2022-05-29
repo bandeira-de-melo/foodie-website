@@ -1,0 +1,28 @@
+.navbar {
+  width: 100%;
+  padding: 2rem 0;
+  background-color: #fff;
+  display: flex;
+  .navbar__items-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 1.5rem;
+    .navbar__logo-container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img{
+        width: 100%;
+      }
+      
+    }
+    .navbar__menu-and-signup-container{
+      display: flex;
+      align-items: center;
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}

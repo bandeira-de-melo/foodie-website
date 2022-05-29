@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAC;EACD,OAAO,EAAE,IAAI;EACb,GAAG,EAAE,IAAI;EACT,UAAU,EAAE,IAAI;CAIjB;;AAPD,AAIE,EAJA,CAIA,EAAE,GAAG,CAAC,CAAA;EACJ,eAAe,EAAE,IAAI;CACtB",
+    "sources": [
+        "navmenu.scss"
+    ],
+    "names": [],
+    "file": "navmenu.css"
+}

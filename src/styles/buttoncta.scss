@@ -1,0 +1,13 @@
+@import "../variables/variables.scss";
+
+.buttoncta {
+  color: $text-white;
+  font-weight: 200;
+  text-decoration: none;
+  display: inline-block;
+  padding: .8em;
+  font-size: .8rem;
+  border-radius: 10px;
+  background-color: $accent-color;
+}
+

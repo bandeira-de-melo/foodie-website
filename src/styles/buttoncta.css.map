@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAC;EACT,KAAK,ECCM,IAAI;EDAf,WAAW,EAAE,GAAG;EAChB,eAAe,EAAE,IAAI;EACrB,OAAO,EAAE,YAAY;EACrB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,KAAK;EAChB,aAAa,EAAE,IAAI;EACnB,gBAAgB,ECVH,OAAO;CDWrB",
+    "sources": [
+        "buttoncta.scss",
+        "../variables/variables.scss"
+    ],
+    "names": [],
+    "file": "buttoncta.css"
+}
