@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo)](https://github.com/anuraghazra/github-readme-stats)
+![vivaldi_uZwhVhp0zZ](https://user-images.githubusercontent.com/83191364/171012823-ee3fe26c-e99e-4452-a089-a603b17dc8db.png)
+
 # Getting Started with Create React App
 
 
