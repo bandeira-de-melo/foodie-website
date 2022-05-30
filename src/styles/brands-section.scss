@@ -1,0 +1,13 @@
+.brands-section{
+  .brands-section__container{
+    display: flex;
+    justify-content: center;
+    gap: 1.8rem;
+    .brands__image{
+      width: 2.6rem;
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
