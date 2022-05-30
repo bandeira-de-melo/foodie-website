@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandeira-de-melo)](https://github.com/bandeira-de-melo/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo)](https://github.com/anuraghazra/github-readme-stats)
 # Getting Started with Create React App
 
 
