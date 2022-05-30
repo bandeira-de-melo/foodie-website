@@ -1,4 +1,8 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandeira-de-melo)](https://github.com/bandeira-de-melo/github-readme-stats)
+
 # Getting Started with Create React App
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
