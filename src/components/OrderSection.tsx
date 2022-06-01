@@ -1,6 +1,6 @@
+import '../styles/order-section.css'
 
-
-function OrderSection() {
+function OrderSection(props:any) {
   return (
     <section className="order-section">
       <div className="order-section__container">
