@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import BrandsSection from "./components/BrandsSection";
 import OrderSection from "./components/OrderSection";
+import StepsSection from "./components/StepsSection";
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <BrandsSection />
       <OrderSection />
+      <StepsSection />
     </div>
   );
 }
