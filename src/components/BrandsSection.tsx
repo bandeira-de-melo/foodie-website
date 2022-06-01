@@ -1,4 +1,4 @@
-
+import '../styles/brands-section.css'
 import Brand01 from '../assets/images/brand-1.svg'
 import Brand02 from '../assets/images/brand-2.svg'
 import Brand03 from '../assets/images/brand-3.svg'
