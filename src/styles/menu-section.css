@@ -1,0 +1,132 @@
+.menu-section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.menu-section span {
+  color: #FF6B00;
+}
+
+.menu-section .menu-section__container {
+  width: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-icons {
+  margin: 2rem 0;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: .6rem;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-icons .menu-section-icon {
+  padding: .7rem 1.4rem;
+  border-radius: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-icons .menu-section-icon:hover {
+  background-color: #FF6B00;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-icons .menu-section-icon img {
+  width: 100%;
+  width: 1.6rem;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: .5rem;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image {
+  position: relative;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image .food-info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: .5rem;
+  font-size: .9rem;
+  position: absolute;
+  bottom: .8rem;
+  left: .8rem;
+  color: #fff;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image .food-info a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image .food-info .food-price {
+  font-size: 1.4rem;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image .food-info .food-price span {
+  color: #FF6B00;
+  font-size: 1rem;
+}
+
+.menu-section .menu-section__container .menu-cta {
+  margin: 2rem 0;
+}
+
+.menu-section .menu-section__container .menu-cta a {
+  color: #FF6B00;
+  font-size: .9rem;
+}
+/*# sourceMappingURL=menu-section.css.map */

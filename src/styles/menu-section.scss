@@ -1,0 +1,81 @@
+@import '../variables/variables.scss';
+.menu-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  span {
+    color: $accent-color;
+  }
+  .menu-section__container{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .menu-section-icons-select__container{
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      .menu-section-icons{
+        margin: 2rem 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        gap: .6rem;
+        .menu-section-icon{
+          padding: .7rem 1.4rem;
+          border-radius: 100px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          &:hover {
+            background-color: $accent-color;
+          }
+          img {
+            width: 100%;
+            width: 1.6rem;
+          }
+          
+        }
+      }
+      .menu-section-images{
+        display: flex;
+        justify-content: center;
+        gap: .5rem;
+        .menu-section-image{
+          position: relative;
+          .food-info {
+            display: flex;
+            flex-direction: column;
+            gap: .5rem;
+            font-size: .9rem;
+            position: absolute;
+            bottom: .8rem;
+            left: .8rem;
+            color: $text-white;
+            a {
+              text-decoration: none;
+              color: $text-white;
+            }
+            .food-price{
+              font-size: 1.4rem;
+              span {
+                color: $accent-color;
+                font-size: 1rem;
+              }
+            }
+          }
+        }
+      }
+    }
+    .menu-cta{
+      margin: 2rem 0;
+      a{
+        color: $accent-color;
+        font-size: .9rem;
+      }
+      
+    }
+  }
+}
