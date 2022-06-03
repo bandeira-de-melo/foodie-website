@@ -47,7 +47,7 @@ function MenuSection() {
           </div>
         </div>
         <div className="menu-cta">
-          <a href="">More menu &gt </a>
+          <a href="#">More menu &gt </a>
         </div>
       </div>
     </section>

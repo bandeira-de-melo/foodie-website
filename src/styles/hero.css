@@ -72,7 +72,7 @@
   width: 80%;
   padding: .2rem;
   border-radius: 10px;
-  background-color: rgba(255, 107, 0, 0.3);
+  background-color: rgba(255, 107, 0, 0.1);
 }
 
 .hero .hero__items-container .hero__content-container .hero__cta-container .cta-outter-content {
