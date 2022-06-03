@@ -5,6 +5,7 @@ import OrderSection from "./components/OrderSection";
 import StepsSection from "./components/StepsSection";
 import MenuSection from "./components/MenuSection";
 import TestimonialsSection from "./components/TestimonialsSection";
+import Articles from "./components/ArtclesSections";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <StepsSection />
       <MenuSection />
       <TestimonialsSection />
+      <Articles />
     </div>
   );
 }
