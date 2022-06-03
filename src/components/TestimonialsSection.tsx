@@ -1,6 +1,7 @@
 import React from 'react'
 import ButtonCTA from './ButtonCTA'
 import '../styles/testimonials-section.css'
+import Client01 from '../assets/images/img-client-01.png'
 import Client02 from '../assets/images/img-client-02.png'
 
 function TestimonialsSection() {
@@ -25,12 +26,12 @@ function TestimonialsSection() {
           </div>
           <div className="testimonials-section__card">
             <div className="testimonials-section__card__img">
-              <img src={Client02} alt="" />
+              <img src={Client01} alt="" />
             </div>
-            <p>"Very quick and easy!"</p>
+            <p>"High quality service"</p>
             <p className='line'>________</p>
-            <h2>Kristin Watson</h2>
-            <p>Luis Vuitton</p>
+            <h2>Ronald Richard</h2>
+            <p>Best Brands</p>
           </div>
         </div>
       </div>
