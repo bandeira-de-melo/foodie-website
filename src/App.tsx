@@ -4,6 +4,7 @@ import BrandsSection from "./components/BrandsSection";
 import OrderSection from "./components/OrderSection";
 import StepsSection from "./components/StepsSection";
 import MenuSection from "./components/MenuSection";
+import TestimonialsSection from "./components/TestimonialsSection";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <OrderSection />
       <StepsSection />
       <MenuSection />
+      <TestimonialsSection />
     </div>
   );
 }
