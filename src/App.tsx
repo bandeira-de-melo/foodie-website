@@ -6,6 +6,7 @@ import StepsSection from "./components/StepsSection";
 import MenuSection from "./components/MenuSection";
 import TestimonialsSection from "./components/TestimonialsSection";
 import Articles from "./components/ArtclesSections";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <MenuSection />
       <TestimonialsSection />
       <Articles />
+      <Footer />
     </div>
   );
 }
