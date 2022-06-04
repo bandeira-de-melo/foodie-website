@@ -14,4 +14,18 @@
   border-radius: 10px;
   background-color: #FF6B00;
 }
+
+.big-btn {
+  font-size: 1rem;
+  font-weight: 700;
+  background-color: #fff;
+  color: #FF6B00;
+  border: 1px #FF6B00 solid;
+  width: 100%;
+}
+
+.big-btn:hover {
+  background-color: #FF6B00;
+  color: #fff;
+}
 /*# sourceMappingURL=buttoncta.css.map */
