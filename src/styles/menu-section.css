@@ -89,6 +89,11 @@
 
 .menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image {
   position: relative;
+  width: 48%;
+}
+
+.menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image img {
+  width: 100%;
 }
 
 .menu-section .menu-section__container .menu-section-icons-select__container .menu-section-images .menu-section-image .food-info {

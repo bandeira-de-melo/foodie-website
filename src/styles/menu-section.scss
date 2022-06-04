@@ -43,8 +43,13 @@
         display: flex;
         justify-content: center;
         gap: .5rem;
+        
         .menu-section-image{
           position: relative;
+          width: 48%;
+          img{
+            width: 100%;
+          }
           .food-info {
             display: flex;
             flex-direction: column;
