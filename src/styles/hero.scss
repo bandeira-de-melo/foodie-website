@@ -55,3 +55,26 @@
     }
   }
 }
+
+@media (min-width: 688px){
+  .hero{
+    .hero__items-container{
+      display: flex;
+      flex-direction: row;
+      .hero__image-container{
+        width: 50%;
+        img{
+          width: 98%;
+          max-width: 560px;
+        }
+      }
+      .hero__content-container{
+        .hero__cta-container{
+          max-width: 320  px;
+        }
+      }
+    }
+
+  }
+  
+}
