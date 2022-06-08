@@ -90,4 +90,26 @@
   text-decoration: none;
   color: #FF6B00;
 }
+
+@media (min-width: 688px) {
+  .hero .hero__items-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  .hero .hero__items-container .hero__image-container {
+    width: 50%;
+  }
+  .hero .hero__items-container .hero__image-container img {
+    width: 98%;
+    max-width: 560px;
+  }
+  .hero .hero__items-container .hero__content-container .hero__cta-container {
+    max-width: 320px;
+  }
+}
 /*# sourceMappingURL=hero.css.map */
