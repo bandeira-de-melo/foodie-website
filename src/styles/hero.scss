@@ -34,24 +34,7 @@
         color: $main-text-light;
       }
       
-      .hero__cta-container{
-        display: flex;
-        justify-content: space-between;
-        gap: .5rem;
-        width: 80%;
-        padding: .2rem;
-        border-radius: 10px;
-        background-color: $accent-color-light;
-        .cta-outter-content{
-          font-size: .8rem;
-          display: flex;
-          justify-content: space-between;
-          gap: .5rem;
-          align-items: center;
-          text-decoration: none;
-          color: $accent-color;
-        }
-      }
+      
     }
   }
 }
@@ -68,11 +51,7 @@
           max-width: 560px;
         }
       }
-      .hero__content-container{
-        .hero__cta-container{
-          max-width: 320  px;
-        }
-      }
+      
     }
 
   }
