@@ -11,3 +11,19 @@
     }
   }
 }
+
+@media (min-width: 685px) {
+  .brands-section{
+    .brands-section__container{
+      display: flex;
+      justify-content: center;
+      gap: 2.2rem;
+      .brands__image{
+        width: 3.8rem;
+        img {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
