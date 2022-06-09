@@ -1,9 +1,12 @@
+@import '../variables/variables.scss';
 ul {
   display: flex;
   gap: 1rem;
   list-style: none;
   margin-right: 1rem;
+  color: $main-text-light;
   li > *{
+    
     text-decoration: none;
   }
 }

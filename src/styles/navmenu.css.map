@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,EAAE,CAAC;EACD,OAAO,EAAE,IAAI;EACb,GAAG,EAAE,IAAI;EACT,UAAU,EAAE,IAAI;EAChB,YAAY,EAAE,IAAI;CAInB;;AARD,AAKE,EALA,CAKA,EAAE,GAAG,CAAC,CAAA;EACJ,eAAe,EAAE,IAAI;CACtB",
+    "mappings": "AACA,AAAA,EAAE,CAAC;EACD,OAAO,EAAE,IAAI;EACb,GAAG,EAAE,IAAI;EACT,UAAU,EAAE,IAAI;EAChB,YAAY,EAAE,IAAI;EAClB,KAAK,ECHW,wBAAwB;CDQzC;;AAVD,AAME,EANA,CAMA,EAAE,GAAG,CAAC,CAAA;EAEJ,eAAe,EAAE,IAAI;CACtB",
     "sources": [
-        "navmenu.scss"
+        "navmenu.scss",
+        "../variables/variables.scss"
     ],
     "names": [],
     "file": "navmenu.css"

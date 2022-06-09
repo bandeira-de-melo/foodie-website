@@ -1,8 +1,6 @@
 
 import HeroImage from '../assets/images/hero-img.png'
-import ArrowRight from '../assets/images/arrow-right.svg'
 import '../styles/hero.css'
-import ButtonCTA from './ButtonCTA'
 import HeroCTAContainer from './HeroCTAContainer'
 
 function Hero() {
