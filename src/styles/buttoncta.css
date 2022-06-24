@@ -3,14 +3,10 @@
   color: #fff;
   font-weight: 200;
   text-decoration: none;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  padding: .8em;
-  font-size: .8rem;
+  justify-content: center;
+  padding: 0.8em;
+  font-size: 0.8rem;
   border-radius: 10px;
   background-color: #FF6B00;
 }
@@ -23,9 +19,7 @@
   border: 1px #FF6B00 solid;
   width: 100%;
 }
-
 .big-btn:hover {
   background-color: #FF6B00;
   color: #fff;
-}
-/*# sourceMappingURL=buttoncta.css.map */
+}/*# sourceMappingURL=buttoncta.css.map */

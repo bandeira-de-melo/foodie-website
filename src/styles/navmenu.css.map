@@ -1,10 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AACA,AAAA,EAAE,CAAC;EACD,OAAO,EAAE,IAAI;EACb,GAAG,EAAE,IAAI;EACT,UAAU,EAAE,IAAI;EAChB,YAAY,EAAE,IAAI;EAClB,KAAK,ECHW,wBAAwB;CDQzC;;AAVD,AAME,EANA,CAMA,EAAE,GAAG,CAAC,CAAA;EAEJ,eAAe,EAAE,IAAI;CACtB",
-    "sources": [
-        "navmenu.scss",
-        "../variables/variables.scss"
-    ],
-    "names": [],
-    "file": "navmenu.css"
-}
+{"version":3,"sources":["navmenu.scss","../variables/variables.scss","navmenu.css"],"names":[],"mappings":"AACA;EACE,aAAA;EACA,SAAA;EACA,gBAAA;EACA,kBAAA;EACA,+BCHgB;ACGlB;AFCE;EAEE,qBAAA;AEAJ","file":"navmenu.css"}

@@ -6,11 +6,20 @@
   span {
     color: $accent-color;
   }
+  
+  
   .menu-section__container{
     width: 90%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    .menu-section__desktop {
+      display: flex;
+      h2{
+        width: 50%;
+      }
+    }
+    
 
     .menu-section-icons-select__container{
       width: 100%;
@@ -43,6 +52,9 @@
         display: flex;
         justify-content: center;
         gap: .5rem;
+        .carousel-buttons {
+          display: flex;
+        }
         
         .menu-section-image{
           position: relative;

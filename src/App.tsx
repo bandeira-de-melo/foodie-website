@@ -9,6 +9,7 @@ import Articles from "./components/ArtclesSections";
 import Footer from "./components/Footer";
 
 
+
 function App() {
   return (
     <div className="general_container">

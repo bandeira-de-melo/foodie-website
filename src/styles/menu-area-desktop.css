@@ -1,0 +1,14 @@
+.menu-area-desktop {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.menu-area-desktop .menu-area-desktop-container {
+  display: grid;
+  width: 60%;
+  grid-template-columns: 1fr 2fr;
+}
+.menu-area-desktop .menu-area-desktop-container .menu-area-desktop__btn-container {
+  display: flex;
+  justify-content: flex-end;
+}/*# sourceMappingURL=menu-area-desktop.css.map */
