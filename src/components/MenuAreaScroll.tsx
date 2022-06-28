@@ -1,4 +1,5 @@
-import styled from "styled-components"
+
+import MenuAreaDesktopCategory from "./MenuAreaDesktopCategory"
 
 function MenuAreaScroll() {
     const MenuAreaScrollStyle = {
@@ -10,7 +11,10 @@ function MenuAreaScroll() {
     }
   return (
     <div className="menu-area-desktop_scroll-container" style={MenuAreaScrollStyle}>
-          
+          <MenuAreaDesktopCategory />
+          <MenuAreaDesktopCategory />
+          <MenuAreaDesktopCategory />
+          <MenuAreaDesktopCategory />
     </div>
   )
 }
