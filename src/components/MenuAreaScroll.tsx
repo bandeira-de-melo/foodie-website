@@ -1,19 +1,27 @@
 import styled from "styled-components"
+import MenuAreaDesktopCategory from "./MenuAreaDesktopCategory"
+import Burger from '../assets/images/burger-icon.png'
+import Pizza from '../assets/images/pizzaslice-icon.png'
+import Ramen from '../assets/images/ramen-icon.png'
+import Chicken from '../assets/images/fried-chicken-icon.png'
 
 function MenuAreaScroll() {
-    const MenuAreaScrollStyle = {
-        width: "100%",
-        height: "500px",
-        overflow: "scroll",
-        display: "flex",
-        FlexDirection: 'column'
-    }
+    const Icons = [Burger, Pizza, Ramen, Chicken]
   return (
-    <div className="menu-area-desktop_scroll-container" style={MenuAreaScrollStyle}>
-          
-    </div>
+    <ScrollContainer>
+        {Icons.map(icon =>{
+          return <MenuAreaDesktopCategory categoryIcon={icon} />
+        })}
+    </ScrollContainer>
   )
 }
 
+const ScrollContainer = styled.div`
+  width: "100%";
+  height: "200px";
+  overflow: "scroll";
+  display: "flex";
+  flex-direction: 'column;
+`
 
 export default MenuAreaScroll
